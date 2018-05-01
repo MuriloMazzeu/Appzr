@@ -1,4 +1,4 @@
 # Appzr
 App instalation profile
 
-Simple CRUD with "Generic CQRS" logic
+Never forget to install all your favorite programs on your PC
